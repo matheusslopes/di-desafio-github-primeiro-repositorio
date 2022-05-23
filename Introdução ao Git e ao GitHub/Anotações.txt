@@ -1,0 +1,18 @@
+Link para download do Git: https://git-scm.com/download/win
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Objetos do Git: Blob, Tree e Commit
+
+Chave SSH: Forma de estabelecer uma conexão segura e encriptada entre duas máquinas
+
+Arquivos no Git: 
+Tracked - São arquivos "rastreáveis" dentro do Git.
+Untracked - Arquivos não "rastreáveis" dentro do Git.
+Unmodified - Arquivos não modificados
+Modified - Arquivos modificados
+Staged - Arquivos que estão se "preparando" para fazer parte de um commit.
+
+
+
+
