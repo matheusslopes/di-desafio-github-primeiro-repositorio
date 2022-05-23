@@ -13,6 +13,15 @@ Unmodified - Arquivos não modificados
 Modified - Arquivos modificados
 Staged - Arquivos que estão se "preparando" para fazer parte de um commit.
 
+Algun comando do Git:
+git init - Cria um novo repositório no Git
+git add * = Adiciona todos os objetos para a área "modified"
+git commit -m "comentario" = Cria um commit e adiciona um comentário sobre ele
+git push origin main/master = "Empurra" o arquivo para o GitHub
+git clone "url" = Clona os arquivos do GitHub para a sua máquina
+
+
+
 
 
 
